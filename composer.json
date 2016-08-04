@@ -1,0 +1,13 @@
+{
+    "name": "rainwsy/aliyundm",
+    "description": "a aliyun mail push package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rainwsy53",
+            "email": "595437982@qq.com"
+        }
+    ],
+    "require": {}
+}
