@@ -1,7 +1,7 @@
 {
     "name": "rainwsy/aliyundm",
     "description": "a aliyun mail push package",
-    "type": "library",
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
