@@ -6,8 +6,15 @@
     "authors": [
         {
             "name": "rainwsy53",
-            "email": "595437982@qq.com"
+            "email": "rain53@vip.qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rainwsy\\Aliyunmail\\": "src"
+        }
+    }
 }
